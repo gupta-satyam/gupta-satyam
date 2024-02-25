@@ -1,7 +1,7 @@
 ## Hello 👋 , I am [Satyam]!
 
 ### About Me 🚀
-🎓This is Satyam Gupta, Graduated from IIEST Shibpur, from the Department of Electrical Engineering (2019 to 2023). </br>
+🎓Namaste EveryOne 🙏 This is Satyam Gupta, Graduated from IIEST Shibpur, from the Department of Electrical Engineering (2019 to 2023). </br>
 
 <!--
 **gupta-satyam/gupta-satyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
